@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=30&duration=1000&pause=500&width=435&lines=I+am+Penetration+Tester;I+am+Cybersecurity+Analyst;I+am+Bug+Bounty+Hunter;I+am+Web+Developer;I+am+Photographer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=30&duration=1000&pause=500&width=435&lines=I+am+Penetration+Tester;I+am+Cybersecurity+Analyst;I+am+Web+Developer;I+am+Photographer;I+am+Bug+Bounty+Hunter)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate web developer and a bug bounty hunter from India</h3>
 
